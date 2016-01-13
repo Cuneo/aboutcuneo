@@ -14,9 +14,11 @@
 		<ul>
 			<li>Watch some awesome college football <strong>ROLL TIDE</strong>!!<br>
 				<img src="http://2f13yq12csmv2yraq925m73i.wpengine.netdna-cdn.com/wp-content/uploads/2010/06/AlabamaPage-650x342.jpg"></li>
-			<li>Getting covered Mudding<a href="https://www.youtube.com/watch?v=JWViIC_iV-o"><img src="http://www.world-of-atvs.com/images/atv-mudding-01.jpg"></a></li>
+			<li>Getting covered Mudding<br><a href="https://www.youtube.com/watch?v=JWViIC_iV-o"><img src="http://www.world-of-atvs.com/images/atv-mudding-01.jpg"></a></li>
 			<li>Hunting tasty animals </li>
 		</ul>
+		<p>I went to Arab High School. There I joined the  football and wrestling  teams. I was also a member of HOSA my senior year and went to Nationals which was a lot of fun.</p>
+		<p>I attended The university of Alabama at Birmingham Majoring in Psychology.</p>
 
 	</body>
 </html>
