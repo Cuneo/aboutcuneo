@@ -20,6 +20,5 @@
 		<p>I went to Arab High School. There I joined the  football and wrestling  teams. I was also a member of HOSA my senior year and went to Nationals which was a lot of fun.</p>
 		<p>I attended The university of Alabama at Birmingham Majoring in Psychology.</p>
 		<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5WXx4Nbe7OowjLHIgQ9CjevZzuqCNZhYzSWaQNMOFg98T0ofh7A">
-
 	</body>
 </html>

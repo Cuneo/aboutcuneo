@@ -1,8 +1,11 @@
 h1{
-	font-size: 70PX;
-	color: red;
+	font-size: 45PX;
+	color: crimson;
 }
 /* .bg-blue the dot is use to denote the class*/
 li{
 	font-size: 35px;
 }
+body{
+	 background-color: grey;
+ }
