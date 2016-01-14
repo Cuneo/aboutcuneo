@@ -18,7 +18,8 @@
 			<li>Hunting tasty animals<br><img src="http://www.visitcripplecreek.com/sites/default/files/styles/business_image/public/Hunting-top-of-page.jpg?itok=Mx4SHo9L"> </li>
 		</ul>
 		<p>I went to Arab High School. There I joined the  football and wrestling  teams. I was also a member of HOSA my senior year and went to Nationals which was a lot of fun.</p>
-		<p>I attended The university of Alabama at Birmingham Majoring in Psychology.</p>
 		<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5WXx4Nbe7OowjLHIgQ9CjevZzuqCNZhYzSWaQNMOFg98T0ofh7A">
+		<p>I attended The university of Alabama at Birmingham Majoring in Psychology.</p>
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr6umKJ0fIimH0yE-o2VpTg5V6nUHaKKQiBowrrIcz9p_xZkw6">
 	</body>
 </html>
